@@ -6,6 +6,7 @@ I am a Computer Science major from Washington State.
 ## Interests
 - Networking
   - Socket Programming
+  - Firewalls
 - OS Dev
   - Task Scheduling
   - File Systems
@@ -20,10 +21,11 @@ I am a Computer Science major from Washington State.
 Here is a list of my current projects that I would consider to be active:
 - [Arm Embedded OS]()
 - [RP2040 Project Generator]()
+- [RP2040 Project Collection]()
 - [RP2040 Library Collection]()
+- [Raspberry Pi Weather Station]()
 - [Coilgun]()
 - [Mini Submarine]()
-- [RPi Weather Station]()
 
 ## Previous Projects
 This is a list of my completed projects:
