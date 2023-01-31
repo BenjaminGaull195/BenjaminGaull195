@@ -2,15 +2,39 @@
 ## Who am I
 I am a Computer Science major from Washington State.  
 
+## Prefered Languages and Tools
+- C/C++
+- .Net C#
+- Armv8 Assembly
+- Visual Studio
+- PostgreSQL
+- MySQL
+- nmap
+- pfSense
+- Docker
+- Ansible
+- AWS
+- Microsoft Azure
 
 ## Interests
 - Networking
   - Socket Programming
+    - TCP
+    - UDP
   - Firewalls
+    - Rules
+    - VLANs
+  - DNS
+  - Network Architecture
 - OS Dev
   - Task Scheduling
   - File Systems
   - Device Drivers
+  - Interprocess Communication
+- Security
+  - Cryptography
+  - Cryptanalysis
+  - Authentication
 - System Programming
 - Service Development
 - Data Analysis
@@ -29,12 +53,6 @@ Here is a list of my current projects that I would consider to be active:
 
 ## Previous Projects
 This is a list of my completed projects:
-
-## Prefered Languages
-- C/C++
-- .Net C#
-- Armv8 Assembly
-
 
 ## Contact Information
 - Email: brgaull1998@hotmail.com
